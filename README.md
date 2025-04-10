@@ -24,4 +24,8 @@ Ex: spaceships.tech:3391 vs spaceships.tech
 
 
 -----------------------------------------
-Note: I've never really tested these as .sh files. Just simply paste into terminal
+Notes: 
+
+I've never really tested these as .sh files. Just simply paste it into terminal
+
+1.sh AND 2.sh both require an admin password. The sole difference is the availability of the admin port and the stability/error count.
