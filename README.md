@@ -1,4 +1,4 @@
-# FakeLocals \\ Created by AI#
+# FakeLocals \\ Created by AI
 Allows you to create domains that seem as if they are impossible.
 
 
