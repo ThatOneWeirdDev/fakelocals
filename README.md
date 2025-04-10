@@ -21,3 +21,7 @@ Cons: Unstable
 ## What is the port 80? ##
 Port 80 does not show on these "URLS" so it looks more realistic.
 Ex: spaceships.tech:3391 vs spaceships.tech
+
+
+-----------------------------------------
+Note: I've never really tested these as .sh files. Just simply paste into terminal
